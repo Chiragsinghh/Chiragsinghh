@@ -8,7 +8,6 @@
 
 <br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-7.1%2F10-6D28D9?style=for-the-badge&labelColor=0F0C29)
 ![Batch](https://img.shields.io/badge/Batch-2024--2028-7C3AED?style=for-the-badge&labelColor=0F0C29)
 ![Institution](https://img.shields.io/badge/IIIT-Kota-8B5CF6?style=for-the-badge&labelColor=0F0C29)
 ![Location](https://img.shields.io/badge/Based%20in-Ambala%20Cantt%2C%20India-9333EA?style=for-the-badge&labelColor=0F0C29&logo=googlemaps&logoColor=white)
@@ -205,46 +204,11 @@ Leading MERN stack development of the Alumni Cell platform serving 400+ register
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chiragsinghh&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=8B5CF6&text_color=C9A8FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiragsinghh&theme=radical&hide_border=true&background=0F0C29&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9A8FF" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragsinghh&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C9A8FF" width="50%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chiragsinghh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragsinghh&theme=react-dark&hide_border=true&bg_color=0F0C29&color=A78BFA&line=8B5CF6&point=C9A8FF" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Chiragsinghh/Chiragsinghh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
