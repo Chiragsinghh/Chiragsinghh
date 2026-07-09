@@ -3,7 +3,7 @@
   Free options: unDraw (undraw.co), Storyset (storyset.com), or your own artwork.
   Upload it to this repo (e.g. assets/banner.png) and point the src below at it.
 -->
-<img src="./assets/banner.png" width="100%" alt="banner"/>
+<img src="./.github/workflows/mainbanner.gif" width="100%" alt="banner"/>
 
 <br/>
 
