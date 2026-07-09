@@ -78,4 +78,3 @@ Building real-time, full-stack apps with the MERN stack — clean architecture, 
 
 <br/>
 
-<sub>Pin your favorite repos and your real contribution graph will appear automatically below this README on your GitHub profile page — go to your profile → <b>Customize your pins</b> to set that up.</sub>
