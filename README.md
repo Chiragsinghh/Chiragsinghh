@@ -71,15 +71,6 @@ Building real-time, full-stack apps with the MERN stack — clean architecture, 
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragsinghh&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=FFFFFF&area=true" width="100%"/>
-</div>
-
----
 
 ### 🌐 Connect with me
 
