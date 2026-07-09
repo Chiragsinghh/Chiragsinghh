@@ -33,7 +33,7 @@ Building real-time, full-stack apps with the MERN stack — clean architecture, 
   Replace this with your own photo or avatar.
   Upload it to this repo (e.g. assets/avatar.png) and point the src below at it.
 -->
-<img src="./.github/workflows/file_00000000475071fba8eba5ef0680d0f6.png" width="160" style="border-radius:12px;" alt="avatar"/>
+<img src="avatar.png" width="160" style="border-radius:12px;" alt="avatar"/>
 
 </td>
 </tr>
