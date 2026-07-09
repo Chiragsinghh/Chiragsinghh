@@ -178,38 +178,6 @@ Leading MERN stack development of the Alumni Cell platform serving 400+ register
 
 <br/>
 
-### Coordinator — Artive Club
-
-Heading the entire club with 30+ active members across content, design, and social media verticals.
-
-- Managing all college-level art activities end-to-end
-- Driving planning and execution of 4+ events per semester across 3 functional verticals
-
-![Leadership](https://img.shields.io/badge/-Leadership-6D28D9?style=flat-square) ![Event Management](https://img.shields.io/badge/-Event%20Management-7C3AED?style=flat-square)
-
-<br/>
-
-### Senior Event Management Executive & PR — Kernel
-
-Executed alumni and speaker sessions end-to-end while leading PR strategy and outreach.
-
-- Delivered 5+ alumni and speaker sessions end-to-end
-- Led PR strategy that grew outreach by 30% through targeted cross-platform campaigns
-
-![PR Strategy](https://img.shields.io/badge/-PR%20Strategy-6D28D9?style=flat-square) ![Event Ops](https://img.shields.io/badge/-Event%20Operations-7C3AED?style=flat-square)
-
-<br/>
-
-### Treasurer — ARC Robotics Club
-
-Managed budgeting and fund allocation for all club activities.
-
-- Zero budget overruns across semester events and equipment procurement
-
-![Finance](https://img.shields.io/badge/-Budget%20Management-6D28D9?style=flat-square) ![Operations](https://img.shields.io/badge/-Operations-7C3AED?style=flat-square)
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -221,18 +189,6 @@ Managed budgeting and fund allocation for all club activities.
 | 💻 **LeetCode — 247 Problems Solved** | 91 Easy · 133 Medium · 23 Hard |
 | 📈 **LeetCode Contest Rating** | 1415 |
 | 🔥 **LeetCode 100 Days Badge (2026)** | Max streak of 92 consecutive days |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-**Udemy**
-
-![Go](https://img.shields.io/badge/Go%20Programming-Udemy-6D28D9?style=for-the-badge&logo=go&logoColor=white&labelColor=0F0C29)
 
 </div>
 
