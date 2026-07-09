@@ -79,7 +79,7 @@ philosophy: >
 
 **Cloud, DevOps & Tooling**
 
-![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,postman,cloudinary&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary&theme=dark)
 
 </div>
 
